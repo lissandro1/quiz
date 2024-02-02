@@ -1,2 +1,2 @@
-## Quiz 
-### - perguntas, com acertos e erros
+## * Quiz 
+### - quiz de perguntas, com acertos e erros.
